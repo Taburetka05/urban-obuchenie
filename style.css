@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;    
+}
+
+
+.open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: large;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+html, navigation {
+  width: 100%;
+  height: 40%;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  font-family: "Open Sans", sans-serif;
+  background-color:  #fafaf8;
+  
+}
+
+
+
+
+
+
+
